@@ -123,6 +123,7 @@ section .st7 h2{
 	font-size: 50px;
 	text-align: center;
 	min-height: 340px;
+
 		
 }
 
@@ -187,6 +188,24 @@ section .st12 h2{
 .st10,.st11,.st12{
 	color: #fff;
 }
-.video{
-	text-align: center;
+ 
+aside{
+	border-radius: 20px;
+}
+aside h2{
+	text-align:center;
+	color: #F0B429;
+
+}
+
+aside a{
+	color: #fff;
+	margin: 4;
+}
+.piepagina{
+	background: url(../img/imagen4.png);
+	color: #F0B429;
+}
+article.textoetiqueta p{
+	font-size: 30px;
 }
