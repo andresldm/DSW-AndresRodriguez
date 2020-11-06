@@ -56,12 +56,20 @@ aside{
 	float: left;
 
 }
-.art2 h2{
-	background: url(../img/imagen2.png);
-
+.art2 p{
+	font-size: 20px;
+	
 }
 .art h2{
 	background: url(../img/imagen2.png);
+	font-size: 30px;
+}
+.art p{
+	font-size: 20px;
+}
+.finarti p{
+	font-size: 15px;
+	text-align: center;
 }
 .sec1 h2{
 	color: #F47920;
